@@ -1,0 +1,5 @@
+property,file,description
+Rtip,0.90990415, (m) Radius of blade tip
+Rhub,0.156541631335564, (m) Radius of hub
+B,5, Number of blades
+blade,nobleProp_blade.csv, Blade file
